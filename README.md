@@ -1,6 +1,6 @@
 # 🔴 30 Days of Red Team Cybersecurity
 
-> **"30 Days of Looting — Learn to think like an attacker, so you can defend like a pro."**
+> **"30 Days of Looting — Learn to think like an attacker, so i can defend like a pro."**
 
 A hands-on journey into Red Teaming, penetration testing, offensive security, and adversary simulation.
 
