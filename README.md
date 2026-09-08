@@ -40,7 +40,7 @@ Throughout this journey, I'll learn and practice:
 
 | # | Module | Status |
 |---|--------|--------|
-| 01 | Red Team Fundamentals | ⬜ |
+| 01 | Red Team Fundamentals | ✅️ |
 | 02 | Attack Surface & Threat Modeling | ⬜ |
 | 03 | OSINT Fundamentals | ⬜ |
 | 04 | Passive Reconnaissance | ⬜ |
