@@ -43,7 +43,7 @@ Throughout this journey, I'll learn and practice:
 | 01 | Red Team Fundamentals | ✅️ |
 | 02 | Attack Surface & Threat Modeling | ✅️|
 | 03 | OSINT Fundamentals | ✅️ |
-| 04 | Passive Reconnaissance | ⬜ |
+| 04 | Passive Reconnaissance | 🟨 |
 | 05 | Network Reconnaissance | ⬜ |
 | 06 | Service Enumeration | ⬜ |
 | 07 | Reconnaissance Project | ⬜ |
