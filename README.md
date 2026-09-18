@@ -45,8 +45,8 @@ Throughout this journey, I'll learn and practice:
 | 03 | OSINT Fundamentals | ✅️ |
 | 04 | Passive Reconnaissance | ✅️|
 | 05 | Network Reconnaissance | ✅️ |
-| 06 | Service Enumeration | 🟨 |
-| 07 | Reconnaissance Project | ⬜ |
+| 06 | Service Enumeration | ✅️ |
+| 07 | Reconnaissance Project | 🟨 |
 | 08 | Vulnerability Assessment | ⬜ |
 | 09 | Exploitation Fundamentals | ⬜ |
 | 10 | Metasploit Fundamentals | ⬜ |
