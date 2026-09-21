@@ -48,8 +48,8 @@ Throughout this journey, I'll learn and practice:
 | 06 | Service Enumeration | ✅️ |
 | 07 | Reconnaissance Project | ✅️ |
 | 08 | Vulnerability Assessment | ✅️ |
-| 09 | Exploitation Fundamentals | 🟨 |
-| 10 | Metasploit Fundamentals | ⬜ |
+| 09 | Exploitation Fundamentals |✅️ |
+| 10 | Metasploit Fundamentals | 🟨 |
 | 11 | Password & Hash Security | ⬜ |
 | 12 | Web Enumeration | ⬜ |
 | 13 | Web Vulnerabilities | ⬜ |
