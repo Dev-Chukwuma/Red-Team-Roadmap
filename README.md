@@ -50,7 +50,7 @@ Throughout this journey, I'll learn and practice:
 | 08 | Vulnerability Assessment | ✅️ |
 | 09 | Exploitation Fundamentals |✅️ |
 | 10 | Metasploit Fundamentals | ✅️ |
-| 11 | Password & Hash Security | ⬜ |
+| 11 | Password & Hash Security | 🟨 |
 | 12 | Web Enumeration | ⬜ |
 | 13 | Web Vulnerabilities | ⬜ |
 | 14 | Web Security Project | ⬜ |
