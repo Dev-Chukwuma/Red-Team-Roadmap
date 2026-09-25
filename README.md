@@ -52,8 +52,8 @@ Throughout this journey, I'll learn and practice:
 | 10 | Metasploit Fundamentals | ✅️ |
 | 11 | Password & Hash Security | ✅️|
 | 12 | Web Enumeration | ✅️|
-| 13 | Web Vulnerabilities | 🟨|
-| 14 | Web Security Project | 🟨|
+| 13 | Web Vulnerabilities |✅️|
+| 14 | Web Security Project | ✅️|
 | 15 | Linux Privilege Escalation | ⬜ |
 | 16 | Windows Privilege Escalation | ⬜ |
 | 17 | Credential Discovery | ⬜ |
