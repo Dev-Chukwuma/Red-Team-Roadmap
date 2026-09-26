@@ -54,8 +54,8 @@ Throughout this journey, I'll learn and practice:
 | 12 | Web Enumeration | ✅️|
 | 13 | Web Vulnerabilities |✅️|
 | 14 | Web Security Project | ✅️|
-| 15 | Linux Privilege Escalation | ⬜ |
-| 16 | Windows Privilege Escalation | ⬜ |
+| 15 | Linux Privilege Escalation | ✅️ |
+| 16 | Windows Privilege Escalation | 🟨 |
 | 17 | Credential Discovery | ⬜ |
 | 18 | Shells & Payload Concepts | ⬜ |
 | 19 | Post-Exploitation | ⬜ |
