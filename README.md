@@ -58,7 +58,7 @@ Throughout this journey, I'll learn and practice:
 | 16 | Windows Privilege Escalation | ✅️ |
 | 17 | Credential Discovery | ✅️ |
 | 18 | Shells & Payload Concepts | ✅️ |
-| 19 | Post-Exploitation | ⬜ |
+| 19 | Post-Exploitation | 🟨 |
 | 20 | Lateral Movement | ⬜ |
 | 21 | Privilege Escalation Project | ⬜ |
 | 22 | Active Directory Fundamentals | ⬜ |
