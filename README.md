@@ -1,4 +1,4 @@
-# 🔴 30 Days of Red Team Cybersecurity
+# 🔴 30 Modules of Red Team Cybersecurity
 
 > **"Learn to think like an attacker, so i can defend like a pro."**
 
