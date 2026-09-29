@@ -57,7 +57,7 @@ Throughout this journey, I'll learn and practice:
 | 15 | Linux Privilege Escalation | ✅️ |
 | 16 | Windows Privilege Escalation | ✅️ |
 | 17 | Credential Discovery | ✅️ |
-| 18 | Shells & Payload Concepts | 🟨 |
+| 18 | Shells & Payload Concepts | ✅️ |
 | 19 | Post-Exploitation | ⬜ |
 | 20 | Lateral Movement | ⬜ |
 | 21 | Privilege Escalation Project | ⬜ |
