@@ -61,8 +61,8 @@ Throughout this journey, I'll learn and practice:
 | 19 | Post-Exploitation | ✅️ |
 | 20 | Lateral Movement | ✅️ |
 | 21 | Privilege Escalation Project | ✅️ |
-| 22 | Active Directory Fundamentals | 🟨|
-| 23 | Active Directory Enumeration | ⬜ |
+| 22 | Active Directory Fundamentals |✅️|
+| 23 | Active Directory Enumeration | ✅️ |
 | 24 | Kerberos Fundamentals | ⬜ |
 | 25 | Credential Attacks in AD Labs | ⬜ |
 | 26 | BloodHound & Attack Paths | ⬜ |
