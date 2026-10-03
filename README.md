@@ -64,8 +64,8 @@ Throughout this journey, I'll learn and practice:
 | 22 | Active Directory Fundamentals |✅️|
 | 23 | Active Directory Enumeration | ✅️ |
 | 24 | Kerberos Fundamentals | ✅️ |
-| 25 | Credential Attacks in AD Labs | 🟨 |
-| 26 | BloodHound & Attack Paths | ⬜ |
+| 25 | Credential Attacks in AD Labs | ✅️ |
+| 26 | BloodHound & Attack Paths | 🟨 |
 | 27 | Active Directory Lateral Movement | ⬜ |
 | 28 | Domain Privilege Escalation | ⬜ |
 | 29 | Full Red Team Simulation | ⬜ |
