@@ -69,7 +69,7 @@ Throughout this journey, I'll learn and practice:
 | 27 | Active Directory Lateral Movement | ✅️ |
 | 28 | Domain Privilege Escalation |✅️|
 | 29 | Full Red Team Simulation | ✅️ |
-| 30 | Final Red Team Capstone | 🟨 |
+| 30 | Final Red Team Capstone | ✅️💯 |
 
 ---
 
