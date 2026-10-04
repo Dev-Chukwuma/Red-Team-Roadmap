@@ -68,7 +68,7 @@ Throughout this journey, I'll learn and practice:
 | 26 | BloodHound & Attack Paths | ✅️ |
 | 27 | Active Directory Lateral Movement | ✅️ |
 | 28 | Domain Privilege Escalation |✅️|
-| 29 | Full Red Team Simulation | 🟨 |
+| 29 | Full Red Team Simulation | ✅️ |
 | 30 | Final Red Team Capstone | ⬜ |
 
 ---
